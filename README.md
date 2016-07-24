@@ -21,6 +21,7 @@ Type of Keys
 
 ```
 
+A Sample Model Configration 
 
 ```ruby
 
