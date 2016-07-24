@@ -3,7 +3,7 @@ BASE_DIR = os.path.dirname(os.path.realpath(__file__)).split('src')[0]
 
 CONF = {
   "Base_Dir": BASE_DIR,
-  "Project_Dir": '/projects/',
+  "Project_Dir": "/projects/",
   "Model_Dir": "models/",
   "Serializers_Dir":"serializers/",
   "Constants_File":"constants.py"
@@ -14,7 +14,7 @@ DEFAULT_CLASS_FIELD = "char"
 
 DEFAULT_INDENT      = " " * 4
 
-CLASS_FIELDS = ['char','int','bigint','datetime','foreign','auto']
+CLASS_FIELDS = ["char","int","bigint","datetime","foreign","auto"]
 
 CLASS_CONFIG = {
     "auto": {
