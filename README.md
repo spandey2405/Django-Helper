@@ -2,7 +2,9 @@
 
 A General framework that automates the creation of model and serializer for a given configration. it also add model and serizalizer to your project is the project configration is added!
 
-### Sample Model Configration Json 
+### Sample Model Configration Json
+
+A model is the single, definitive source of information about your data. It contains the essential fields and behaviors of the data you're storing. Generally, each model maps to a single database table. The basics: Each model is a Python class that subclasses ```django.db.models.Model``` .
 
 ```ruby
 
