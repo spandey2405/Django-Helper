@@ -4,3 +4,5 @@ projects/helpers/*.py
 projects/lib/*.py
 projects/models/*.py
 projects/serializers/*.py
+projects/constant/*.py
+
